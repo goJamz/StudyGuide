@@ -148,13 +148,13 @@ The gaining ADA unit establishes command relationships, positions, and prioritie
 
 ### Command Relationship Quick Comparison
 
-| Relationship | Simple Meaning |
-|---|---|
-| **Organic** | Permanently built into the organization |
-| **Assigned** | Placed in the organization relatively permanently |
-| **Attached** | Placed in the organization temporarily |
-| **OPCON** | Commander can organize, employ, task, and direct the force for the mission |
-| **TACON** | Commander can direct tactical movement and maneuver for the mission |
+| Relationship | Simple Meaning                                                             |
+| ------------ | -------------------------------------------------------------------------- |
+| **Organic**  | Permanently built into the organization                                    |
+| **Assigned** | Placed in the organization relatively permanently                          |
+| **Attached** | Placed in the organization temporarily                                     |
+| **OPCON**    | Commander can organize, employ, task, and direct the force for the mission |
+| **TACON**    | Commander can direct tactical movement and maneuver for the mission        |
 
 ## Support Relationships
 
@@ -203,11 +203,11 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 
 ### Support Relationship Quick Comparison
 
-| Relationship | Primary Focus |
-|---|---|
-| **Direct Support** | One specific supported element |
-| **General Support** | The force as a whole |
-| **Reinforcing** | Strengthen another ADA unit |
+| Relationship                    | Primary Focus                                             |
+| ------------------------------- | --------------------------------------------------------- |
+| **Direct Support**              | One specific supported element                            |
+| **General Support**             | The force as a whole                                      |
+| **Reinforcing**                 | Strengthen another ADA unit                               |
 | **General Support-Reinforcing** | Support the force while also reinforcing another ADA unit |
 
 > **Remember:**  
