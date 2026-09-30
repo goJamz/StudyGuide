@@ -1,8 +1,9 @@
 ---
 title: Lessons
-description: Daily lesson notes organized by date.
 ---
 
-Daily class notes and their key takeaways.
+Daily lesson notes and study material.
 
-- [[2026-09-29|September 29 lesson]]
+## September 2026
+
+- [[Training Day 02|Training Day 02 — September 29, 2026]]
