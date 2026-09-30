@@ -49,6 +49,8 @@ The four levels of warfare are:
 3. **Operational**
 4. **Tactical**
 
+![Levels of warfare](./images/td_02/levels-of-warfare.png)
+
 ## Four Tenets of Operations
 
 The four tenets are:
@@ -57,6 +59,8 @@ The four tenets are:
 2. **Convergence**
 3. **Endurance**
 4. **Depth**
+
+![Tenets of Operations](./images/td_02/tenets-of-ops.png)
 
 ## Imperatives of Operations
 
@@ -79,6 +83,8 @@ Understand the:
 - **Human dimension**
 
 of each domain.
+
+![Domain Dimensions](./images/td_02/domain-dimensions.png)
 
 ## Air Defense Warning
 
@@ -220,6 +226,8 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 2. **Describe the Environmental Effects on Operations**
 3. **Evaluate the Threat**
 4. **Determine Threat COAs**
+
+![IPOE Process](./images/td_02/ipoe-process.png)
 
 ## Quick Recall
 
