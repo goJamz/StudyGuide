@@ -194,5 +194,5 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 8. What is the difference between Direct Support and General Support?
 9. What is the purpose of a Reinforcing relationship?
 10. How does General Support-Reinforcing combine two support relationships?
-21. What are the four steps of IPOE?
+11. What are the four steps of IPOE?
 12. Why is consolidating gains continuously important?
