@@ -1,90 +1,8 @@
 ---
-title: "Training Day 02: AD4CI and MDO/LSCO"
-description: Study notes for the AD4CI and MDO/LSCO lessons.
+title: "Training Day 02: AD4CI"
+description: Study notes for the AD4CI lesson.
 date: 2026-09-29
 ---
-
-## Peer Threats
-
-Peer threats possess:
-
-- Advantages
-- Capabilities
-- Formations that contest the joint force through all domains
-- Standoff approaches that increase risk to joint forces
-
-## Threat Challenges
-
-Enemy capabilities are:
-
-- Dispersed across greater distances
-- Distributed across all domains
-- Employed beyond the bounds of armed conflict
-- Vulnerable over shorter periods of time
-
-These challenges allow China and Russia to disrupt the cohesion of the joint force.
-
-## 2+3 Strategic Framework
-
-### Acute Threat
-
-- **Russia**
-
-### Pacing Threat
-
-- **China**
-
-### Persistent Threats
-
-- **North Korea**
-- **Iran**
-- **Violent extremists**
-
-## Levels of Warfare
-
-The four levels of warfare are:
-
-1. **National Strategic**
-2. **Theater**
-3. **Operational**
-4. **Tactical**
-
-![Levels of warfare](./images/td_02/levels-of-warfare.png)
-
-## Four Tenets of Operations
-
-The four tenets are:
-
-1. **Agility**
-2. **Convergence**
-3. **Endurance**
-4. **Depth**
-
-![Tenets of Operations](./images/td_02/tenets-of-ops.png)
-
-## Imperatives of Operations
-
-- See yourself, see the enemy, and **understand the operational environment**
-- Account for being under **constant observation** and all forms of enemy contact
-- Create and exploit relative physical, information, and human advantages in pursuit of **decision dominance**
-- Make initial contact with the **smallest element possible**
-- Impose **multiple dilemmas** on the enemy
-- Anticipate, plan, and execute **transitions**
-- Designate, weigh, and sustain the **main effort**
-- **Consolidate gains** continuously
-- Understand and manage the **effects of operations on units and Soldiers**
-
-## Dimensions of Each Domain
-
-Understand the:
-
-- **Physical dimension**
-- **Information dimension**
-- **Human dimension**
-
-of each domain.
-
-![Domain Dimensions](./images/td_02/domain-dimensions.png)
 
 ## Air Defense Warning
 
@@ -231,26 +149,6 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 
 ## Quick Recall
 
-### What are the four tenets of operations?
-
-- Agility
-- Convergence
-- Endurance
-- Depth
-
-### What are the four levels of warfare?
-
-- National Strategic
-- Theater
-- Operational
-- Tactical
-
-### What is the 2+3 Strategic Framework?
-
-- **1 Acute Threat:** Russia
-- **1 Pacing Threat:** China
-- **3 Persistent Threats:** North Korea, Iran, and violent extremists
-
 ### What are the five command relationships covered in this lesson?
 
 1. Organic
@@ -286,24 +184,15 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 
 ## Study Questions
 
-1. What characteristics make a threat a peer threat?
-2. How are enemy capabilities changing across distance and domains?
-3. What is the 2+3 Strategic Framework?
-4. What are the four levels of warfare?
-5. What are the four tenets of operations?
-6. Why must forces account for being under constant observation?
-7. What does decision dominance mean in the context of the operational imperatives?
-8. Why should initial contact be made with the smallest element possible?
-9. What are the physical, information, and human dimensions of a domain?
-10. What distinguishes DYNAMITE, LOOKOUT, and SNOWMAN?
-11. What are the five command relationships covered in this lesson?
-12. What is the difference between organic, assigned, and attached?
-13. What authority does OPCON give a commander?
-14. What does OPCON not automatically include?
-15. How is TACON more limited than OPCON?
-16. What are the four support relationships?
-17. What is the difference between Direct Support and General Support?
-18. What is the purpose of a Reinforcing relationship?
-19. How does General Support-Reinforcing combine two support relationships?
-20. What are the four steps of IPOE?
-21. Why is consolidating gains continuously important?
+1. What distinguishes DYNAMITE, LOOKOUT, and SNOWMAN?
+2. What are the five command relationships covered in this lesson?
+3. What is the difference between organic, assigned, and attached?
+4. What authority does OPCON give a commander?
+5. What does OPCON not automatically include?
+6. How is TACON more limited than OPCON?
+7. What are the four support relationships?
+8. What is the difference between Direct Support and General Support?
+9. What is the purpose of a Reinforcing relationship?
+10. How does General Support-Reinforcing combine two support relationships?
+21. What are the four steps of IPOE?
+12. Why is consolidating gains continuously important?
