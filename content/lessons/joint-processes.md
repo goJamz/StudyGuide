@@ -108,7 +108,6 @@ It is typically:
 
 When delegated division-assigned airspace, the JAGIC controls and coordinates the use of that volume for Army and joint airspace users below the CA.
 
-
 ### Requesting Division-Assigned Airspace
 
 Army divisions may request division-assigned airspace within their unit boundaries and below the CA when they can justify the requirement through:
@@ -222,7 +221,6 @@ The assessment stage feeds the next Joint Air Tasking Cycle.
 | ----------- | ------------------------------------------------------------------ |
 | **Stage 3** | **MAAP is developed** — planning, weaponeering, and allocation     |
 | **Stage 5** | **ATO is executed** — Combat Operations Division manages execution |
-
 
 ## Quick Recall
 
