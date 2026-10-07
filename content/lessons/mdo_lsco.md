@@ -2,6 +2,13 @@
 title: "Training Day 02: MDO/LSCO"
 description: Study MDO/LSCO lessons.
 date: 2026-09-29
+tags:
+  - lessons
+  - mdo
+  - lsco
+  - multidomain-operations
+  - large-scale-combat-operations
+  - peer-threats
 ---
 
 ## Peer Threats

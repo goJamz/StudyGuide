@@ -2,6 +2,13 @@
 title: "Training Day 02: AD4CI"
 description: Study notes for the AD4CI lesson.
 date: 2026-09-29
+tags:
+  - lessons
+  - ad4ci
+  - air-defense
+  - command-relationships
+  - support-relationships
+  - ipoe
 ---
 
 ## Air Defense Warning

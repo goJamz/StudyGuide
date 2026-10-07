@@ -6,6 +6,7 @@ Daily lesson notes and study material.
 
 ## October 2026
 
+- [[joint-processes|Joint processes]]
 - [[otl_day|Training Day 06 — OTL]]
 
 ## September 2026

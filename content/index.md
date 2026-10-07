@@ -13,6 +13,7 @@ Personal study guide for WOIC coursework.
 
 ## Recent Lessons
 
+- [[lessons/joint-processes|Training 07 - Joint processes]]
 - [[lessons/ad4ci.md|Training Day 02 — AD4CI]]
 - [[lessons/mdo_lsco|Training Day 02 — MDO/LSCO]]
 - [[lessons/otl_day|Training Day 06 - OTL]]
