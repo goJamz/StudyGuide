@@ -11,6 +11,99 @@ tags:
   - ipoe
 ---
 
+## AMD Operational Elements
+
+Air and Missile Defense consists of two operational elements: **Active AMD** and **Passive AMD**.
+
+### Active AMD
+
+**Active AMD** consists of direct defensive actions taken to destroy, nullify, or reduce the effectiveness of air and missile threats against friendly forces and assets.
+
+### Passive AMD
+
+**Passive AMD** consists of all measures, other than active AMD, taken to minimize the effectiveness of hostile air and ballistic missile threats against friendly forces and critical assets.
+
+Passive measures include:
+
+- Detection and warning
+- Camouflage
+- Concealment
+- Deception
+- Dispersion
+- Hardening
+- Protective construction
+
+> **Quick recall:** The two AMD operational elements are **Active** and **Passive**.
+
+## AMD Principles
+
+Commanders apply AMD principles when planning active AMD operations. The AMD principles are:
+
+1. **Mass**
+2. **Mix**
+3. **Mobility**
+4. **Integration**
+5. **Flexibility**
+6. **Agility**
+
+### Mass
+
+**Mass** is the concentration of combat power sufficient to achieve the commander's intent. For AMD, mass is achieved by allocating enough AMD firepower to successfully defend the force or asset against aerial attack or surveillance. Massing AMD combat power in one area may require commanders to accept risk in another area.
+
+### Mix
+
+**Mix** is the employment of a combination of weapons and sensors to protect the force and assets from the threat. Mix offsets the limitations of one system with the capabilities of another and complicates the situation for the attacker.
+
+### Mobility
+
+**Mobility** is the capability of military forces to move from place to place while retaining the ability to fulfill their primary mission. Mobility also increases the survivability of AMD forces and the assets they support.
+
+### Integration
+
+**Integration** is the arrangement of military forces and their actions to create a force that operates by engaging as a whole. In AMD, integration combines ADA and joint counterair forces, systems, functions, processes, and information acquisition and distribution so they can operate singly or together without adversely affecting individual elements.
+
+### Flexibility
+
+**Flexibility** is the employment of a versatile mix of capabilities, formations, and equipment for conducting operations. In AMD, flexibility is applied primarily by building **METT-TC-informed task organizations**.
+
+### Agility
+
+**Agility** is the ability of friendly forces to react faster than the enemy. For AMD, this includes leveraging digital capabilities and continuous air IPB to maneuver and employ forces inside the enemy's decision space.
+
+## AMD Employment Tenets
+
+AMD employment tenets are desirable attributes that commanders should build into plans when positioning and employing ADA resources.
+
+### Mutual Support
+
+Weapons are positioned so the fires of one weapon can engage targets within the **dead zone of an adjacent weapon**. The same concept applies to sensors: sensors are positioned to cover the dead zones of adjacent sensors.
+
+### Overlapping Fires and Overlapping Coverage
+
+Weapons are positioned so their **engagement envelopes overlap** vertically and horizontally. Sensors are positioned so their coverage leaves **no seam in the defense** that an incoming threat could exploit.
+
+### Balanced Fires
+
+Weapons are positioned to deliver an **equal volume of fires in all directions**. This is useful when terrain does not canalize the threat or when avenues of approach are unpredictable.
+
+### Weighted Coverage
+
+Weapons coverage is combined and concentrated toward the **most likely threat air avenues of approach or directions of attack**. A commander may accept risk in one direction to weight coverage toward another direction.
+
+> **Remember:** **Balanced fires** and **weighted coverage** are not mutually achievable; emphasizing one requires giving up most aspects of the other.
+
+### Early Engagement
+
+Sensors and weapons are positioned so they can engage the threat **before ordnance release or before friendly forces are detected**. Early engagement generally requires extending the defense away from the defended asset and may be achieved at the expense of balanced fires.
+
+### Defense in Depth
+
+Sensors and weapons are positioned so the threat is exposed to an **increasing volume of fire as it approaches the protected asset or force**. Defense in depth decreases the probability that attacking missiles, aircraft, or RAM will reach the defended asset or force.
+
+### Resilience
+
+**Resilience** is the ability of the defense to maintain continuity of operations despite changes in enemy tactics or losses of critical AMD components. ADA planners must account for defense-design adjustments as systems are attrited.
+
 ## Air Defense Warning
 
 ### DYNAMITE
@@ -155,6 +248,30 @@ The supporting unit coordinates with the reinforced ADA unit to strengthen cover
 ![IPOE Process](./images/td_02/ipoe-process.png)
 
 ## Quick Recall
+
+### What are the two AMD operational elements?
+
+- **Active AMD**
+- **Passive AMD**
+
+### What are the six AMD principles?
+
+1. Mass
+2. Mix
+3. Mobility
+4. Integration
+5. Flexibility
+6. Agility
+
+### What are the AMD employment tenets?
+
+1. Mutual Support
+2. Overlapping Fires and Overlapping Coverage
+3. Balanced Fires
+4. Weighted Coverage
+5. Early Engagement
+6. Defense in Depth
+7. Resilience
 
 ### What are the five command relationships covered in this lesson?
 

@@ -47,6 +47,12 @@ These challenges allow China and Russia to disrupt the cohesion of the joint for
 - **Iran**
 - **Violent extremists**
 
+## Army Principle of War: Economy of Force
+
+**Economy of Force** means to **expend minimum-essential combat power on secondary efforts to allocate the maximum possible combat power on the main effort**.
+
+> **Quick recall:** Minimum essential combat power on secondary efforts; maximum possible combat power on the main effort.
+
 ## Levels of Warfare
 
 The four levels of warfare are:
@@ -69,6 +75,10 @@ The four tenets are:
 
 ![Tenets of Operations](./images/td_02/tenets-of-ops.png)
 
+### Convergence
+
+**Convergence** is an outcome created by the concerted employment of capabilities from multiple domains and echelons against combinations of decisive points in any domain to create effects against a system, formation, decision maker, or in a specific geographic area.
+
 ## Imperatives of Operations
 
 - See yourself, see the enemy, and **understand the operational environment**
@@ -81,19 +91,48 @@ The four tenets are:
 - **Consolidate gains** continuously
 - Understand and manage the **effects of operations on units and Soldiers**
 
-## Dimensions of Each Domain
+### Why make initial contact with the smallest element possible?
 
-Understand the:
+- Attempt to detect enemy forces with **unmanned sensors first**.
+- Helps avoid **surprise and heavy losses** caused by enemy forces.
+- Creates an opportunity to **rapidly employ forces** after contact is gained.
+- **Exception:** Mass combat power against enemy forces when friendly forces possess the advantage of surprise.
+
+## Operational Environment: Domains and Dimensions
+
+An operational environment is composed of five domains:
+
+1. **Land**
+2. **Maritime**
+3. **Air**
+4. **Space**
+5. **Cyberspace**
+
+Each domain is understood through three dimensions:
 
 - **Physical dimension**
 - **Information dimension**
 - **Human dimension**
 
-of each domain.
-
 ![Domain Dimensions](./images/td_02/domain-dimensions.png)
 
 ## Quick Recall
+
+### What is Economy of Force?
+
+Expend **minimum-essential combat power on secondary efforts** to allocate the **maximum possible combat power on the main effort**.
+
+### What is Convergence?
+
+An outcome created by the **concerted employment of capabilities from multiple domains and echelons** against combinations of decisive points to create effects against a system, formation, decision maker, or specific geographic area.
+
+### What are the five domains of the operational environment?
+
+- Land
+- Maritime
+- Air
+- Space
+- Cyberspace
 
 ### What are the four tenets of operations?
 

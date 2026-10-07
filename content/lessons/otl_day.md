@@ -21,6 +21,12 @@ tags:
 
 ## OPTASKLINK
 
+### JICO and the OPTASKLINK
+
+The **Area Air Defense Commander (AADC)** designates a **Joint Interface Control Officer (JICO)** who **builds the OPTASKLINK for the theater of operations**.
+
+The ICO and interface units coordinate during OPTASKLINK **production, dissemination, and implementation**.
+
 ### Key Sets
 
 | Set          | Information Provided                       |
@@ -64,7 +70,14 @@ Provides the designated code name or nickname when the message supports an **ope
 
 #### JUDATA
 
-Provides the unit's **Link 16 data**.
+The **JUDATA** set provides data about **Link 16 data-link system units**. Key information includes:
+
+- **Unit designation**
+- **Call sign**
+- **Primary JU address**
+- **Link 16 track block assignment**
+
+> **Quick recall:** JUDATA tells you **who the Link 16 unit is, how it is identified, its JU address, and its track block**.
 
 ## Voice Nets
 
@@ -81,6 +94,16 @@ Provides the unit's **Link 16 data**.
 - **TSN:** tactical-picture management
 - **ADCCN:** high-level air defense coordination
 - **DCN:** overall TADIL interface management
+
+## Link 16 Time Structure
+
+The Link 16 network uses three time units of measurement:
+
+1. **Epoch**
+2. **Frame**
+3. **Time Slot**
+
+> **Quick recall:** **Epoch -> Frame -> Time Slot**.
 
 ## Fine Synchronization
 
@@ -162,6 +185,9 @@ Once in fine sync, a terminal periodically sends RTT-I messages to suitable term
 11. Which data links correspond to TDL A, TDL B, and TDL J?
 12. What is the difference between a CIU and an FJUAB?
 13. What does an SFJU monitor, and does it forward data?
+14. Who builds the OPTASKLINK for the theater of operations?
+15. What key information does the JUDATA set provide?
+16. What are the three Link 16 time units of measurement?
 
 ## Answer Key
 
@@ -178,3 +204,6 @@ Once in fine sync, a terminal periodically sends RTT-I messages to suitable term
 11. TDL A is **Link 11**, TDL B is **Link 11B**, and TDL J is **Link 16**.
 12. A CIU communicates on TDL A, B, and J without forwarding; an FJUAB translates and forwards data among all three.
 13. It monitors the status of an FJU on TDL A and/or TDL B, and it **does not forward data**.
+14. The **JICO**, designated by the AADC.
+15. **Unit designation, call sign, JU address, and Link 16 track block assignment**.
+16. **Epoch, Frame, and Time Slot**.
